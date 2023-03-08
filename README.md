@@ -30,15 +30,10 @@ ___
   <img alt="ZhuraTown`s telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram" />
 </a>
 
+___
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  &nbsp;
+### :fire: My Stats :
   
-  [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats-zhuratown.vercel.app/api/top-langs/?username=zhuratown&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact" />](https://github.com/ZhuraTown#gh-light-mode-only)
-  [<img align="left" width="47%" alt="Github Stats" src="https://github-readme-stats-zhuratown.vercel.app/api?username=zhuratown&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/ZhuraTown#gh-light-mode-only)
-  [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats-zhuratown.vercel.app/api/top-langs/?username=zhuratown&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/ZhuraTown#gh-dark-mode-only)
-  [<img align="left" width="47%" alt="Github Stats" src="https://github-readme-stats-zhuratown.vercel.app/api?username=zhuratown&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/ZhuraTown#gh-dark-mode-only)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhuratown&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuratown)](https://github.com/anuraghazra/github-readme-stats)
