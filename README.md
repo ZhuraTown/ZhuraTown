@@ -37,7 +37,7 @@ ___
 
 ### :fire: My Stats :
 <details>
-  <summary>:zap: Most  GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
   &nbsp;
 
 [<img align="left" width="47%" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zhuratown&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true"/>](https://github.com/ZhuraTown#gh-light-mode-only)
