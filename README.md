@@ -5,10 +5,10 @@
 
 ___
 
-## :man_technologist: About Me :
-### - I`m automation QA 🤖 
-### - I love new knowledge 📖
-### - I love swimming 🏊‍♂️
+### :man_technologist: About Me :
+#### - I`m automation QA 🤖 
+#### - I love new knowledge 📖
+#### - I love swimming 🏊‍♂️
   
 ___
 
@@ -20,18 +20,25 @@ ___
 ![git](https://img.shields.io/badge/git%20-%2314354C.svg?&style=for-the-badge&logo=git&logoColor)
 ![docker](https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor)
 ![postman](https://img.shields.io/badge/postman%20-%2314354C.svg?&style=for-the-badge&logo=postman&logoColor)
-![python](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
-
+![aiogram](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
+![opencv](https://img.shields.io/badge/opencv%20-%2314354C.svg?&style=for-the-badge&logo=opencv&logoColor)
 
 
 ### Connect with me:
 ___
-[<img align="left" alt="Telegram" width="40px" src="./imgs/telegram.svg" style="padding-right:10px;" />](https://t.me/ZhuraTo)
-&nbsp;&nbsp;
+<a href="https://t.me/ZhuraTo">
+  <img alt="ZhuraTown`s telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram" />
+</a>
 
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  &nbsp;
   
-___
+  [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats-zhuratown.vercel.app/api/top-langs/?username=zhuratown&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact" />](https://github.com/ZhuraTown#gh-light-mode-only)
+  [<img align="left" width="47%" alt="Github Stats" src="https://github-readme-stats-zhuratown.vercel.app/api?username=zhuratown&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/ZhuraTown#gh-light-mode-only)
+  [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats-zhuratown.vercel.app/api/top-langs/?username=zhuratown&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />](https://github.com/ZhuraTown#gh-dark-mode-only)
+  [<img align="left" width="47%" alt="Github Stats" src="https://github-readme-stats-zhuratown.vercel.app/api?username=zhuratown&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/ZhuraTown#gh-dark-mode-only)
 
-
-<!--
-**ZhuraTown/ZhuraTown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
