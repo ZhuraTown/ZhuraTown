@@ -3,20 +3,23 @@
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
 </div>
 
-### Hi there 👋
 ___
-Connect with me:
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
+### :man_technologist: About Me :
+  
+
+___
+
+
+### :hammer_and_wrench: Languages and Tools :
+
+  
+### Connect with me:
+___
+[<img align="left" alt="Telegram" width="40px" src="./imgs/telegram.svg" style="padding-right:10px;" />](https://t.me/ZhuraTo)
+&nbsp;&nbsp;
+
+  
 ___
 
 
