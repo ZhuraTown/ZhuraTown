@@ -17,10 +17,6 @@ ___
 [<img align="left" alt="Pytest" width="40px" src="imgs/pytest.svg" style="padding-right:10px;" />](https://docs.pytest.org/#gh-light-mode-only)&nbsp;&nbsp;
 [<img align="left" alt="Appium" width="40px" src="imgs/appium.svg" style="padding-right:10px;" />](https://appium.io#gh-light-mode-only)&nbsp;&nbsp;
 [<img align="left" alt="Selenium" width="40px" src="imgs/selenium.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-dark-mode-only)&nbsp;&nbsp;
-[<img align="left" alt="Python" width="40px" src="imgs/selenium.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-dark-mode-only)&nbsp;&nbsp;
-
-[<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />](https://www.python.org#gh-light-mode-only)&nbsp;&nbsp;
-[<img align="left" alt="Selenium" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-dark-mode-only)&nbsp;&nbsp;
 
 
 ### Connect with me:
