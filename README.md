@@ -16,12 +16,13 @@ ___
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor)
 ![pytest](https://img.shields.io/badge/pytest%20-%2314354C.svg?&style=for-the-badge&logo=pytest&logoColor)
 ![selenium](https://img.shields.io/badge/selenium%20-%2314354C.svg?&style=for-the-badge&logo=selenium&logoColor)
-![appium](https://img.shields.io/badge/appium%20-%2314354C.svg?&style=for-the-badge&logo=appium&logoColor)
 ![git](https://img.shields.io/badge/git%20-%2314354C.svg?&style=for-the-badge&logo=git&logoColor)
 ![docker](https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor)
 ![postman](https://img.shields.io/badge/postman%20-%2314354C.svg?&style=for-the-badge&logo=postman&logoColor)
-![aiogram](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
 ![opencv](https://img.shields.io/badge/opencv%20-%2314354C.svg?&style=for-the-badge&logo=opencv&logoColor)
+![aiogram](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
+![allure](https://img.shields.io/badge/allure%20-%2314354C.svg?&style=for-the-badge&logo=allure&logoColor)
+![appium](https://img.shields.io/badge/appium%20-%2314354C.svg?&style=for-the-badge&logo=appium&logoColor)
 
 
 ### Connect with me: &nbsp;
