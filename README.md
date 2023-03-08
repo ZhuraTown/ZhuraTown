@@ -24,16 +24,24 @@ ___
 ![opencv](https://img.shields.io/badge/opencv%20-%2314354C.svg?&style=for-the-badge&logo=opencv&logoColor)
 
 
-### Connect with me:
-___
+### Connect with me: &nbsp;
 <a href="https://t.me/ZhuraTo">
   <img alt="ZhuraTown`s telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram" />
 </a>
+<a href="zhuratown@gmail.com">
+  <img alt="ZhuraTown's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
+
 
 ___
 
 ### :fire: My Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhuratown&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhuratown&theme=dark&background=000000)](https://github.com/ZhuraTown#gh-light-mode-only)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuratown)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+  <summary>:zap: Most Used Languages Stats</summary>
+  &nbsp;
+    <img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuratown&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />
+</details>
