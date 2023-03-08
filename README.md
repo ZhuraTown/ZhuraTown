@@ -13,13 +13,15 @@ ___
 ___
 
 ### :hammer_and_wrench: Languages and Tools :
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor)
+![pytest](https://img.shields.io/badge/pytest%20-%2314354C.svg?&style=for-the-badge&logo=pytest&logoColor)
+![selenium](https://img.shields.io/badge/selenium%20-%2314354C.svg?&style=for-the-badge&logo=selenium&logoColor)
+![appium](https://img.shields.io/badge/appium%20-%2314354C.svg?&style=for-the-badge&logo=appium&logoColor)
+![git](https://img.shields.io/badge/git%20-%2314354C.svg?&style=for-the-badge&logo=git&logoColor)
+![docker](https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor)
+![postman](https://img.shields.io/badge/postman%20-%2314354C.svg?&style=for-the-badge&logo=postman&logoColor)
+![python](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
 
-[<img align="left" alt="Python" width="40px" src="./img/python.svg" style="padding-right:10px;" />](https://www.python.org#gh-light-mode-only)&nbsp;&nbsp;
-[<img align="left" alt="Pytest" width="40px" src="./img/pytest.svg" style="padding-right:10px;" />](https://docs.pytest.org/#gh-light-mode-only)&nbsp;&nbsp;
-[<img align="left" alt="Appium" width="40px" src="./img/appium.svg" style="padding-right:10px;" />](https://appium.io#gh-light-mode-only)&nbsp;&nbsp;
-[<img align="left" alt="Selenium" width="40px" src="./img/selenium.svg" style="padding-right:10px;" />](https://www.selenium.dev#gh-light-mode-only)&nbsp;&nbsp;
-[<img align="left" alt="Postman" width="40px" src="./img/postman.svg" style="padding-right:10px;" />](https://www.postman.com/)&nbsp;&nbsp;
-[<img align="left" alt="Git" width="40px" src="./img/git.svg" style="padding-right:10px;" />](https://github.com)&nbsp;&nbsp;
 
 
 ### Connect with me:
@@ -33,17 +35,3 @@ ___
 
 <!--
 **ZhuraTown/ZhuraTown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
