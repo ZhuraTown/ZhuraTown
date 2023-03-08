@@ -36,9 +36,11 @@ ___
 ___
 
 ### :fire: My Stats :
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhuratown&theme=dark&background=000000)](https://github.com/ZhuraTown#gh-light-mode-only)&nbsp;
-
+<details>
+  <summary>:zap: Most  GitHub Stats</summary>
+  &nbsp;
+    <img align="left" width="47%" alt="Top Languages" src="http://github-readme-streak-stats.herokuapp.com?user=zhuratown&theme=dark&background=000000&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />
+</details>
 
 <details>
   <summary>:zap: Most Used Languages Stats</summary>
