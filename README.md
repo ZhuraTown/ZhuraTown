@@ -1,17 +1,18 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
 ___
 
-### :man_technologist: About Me :
-  
-
+## :man_technologist: About Me :
+### - I`m automation QA 🤖 
+### - I love new knowledge 📖
+### - I love swimming 🏊‍♂️
 ___
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :`hammer_and_wrench`: Languages and Tools :
 
   
 ### Connect with me:
