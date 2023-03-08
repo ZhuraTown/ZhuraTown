@@ -28,7 +28,7 @@ ___
 <a href="https://t.me/ZhuraTo">
   <img alt="ZhuraTown`s telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram" />
 </a>
-<a href="zhuratown@gmail.com">
+<a href="mailto: zhuratown@gmail.com">
   <img alt="ZhuraTown's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
