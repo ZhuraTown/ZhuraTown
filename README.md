@@ -39,11 +39,8 @@ ___
 <details>
   <summary>:zap: Most  GitHub Stats</summary>
   &nbsp;
-    <img align="left" width="47%" alt="Top Languages" src="http://github-readme-streak-stats.herokuapp.com?user=zhuratown&theme=dark&background=000000&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages Stats</summary>
-  &nbsp;
-    <img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuratown&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact" />
+    [<img align="left" width="47%" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zhuratown&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true"/>](https://github.com/ZhuraTown#gh-light-mode-only)
+    [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuratown&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact"/>](https://github.com/ZhuraTown#gh-light-mode-only)
+    [<img align="left" width="47%" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zhuratown&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact"/>](https://github.com/ZhuraTown#gh-dark-mode-only)
+    [<img align="left" width="47%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuratown&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/ZhuraTown#gh-dark-mode-only)
 </details>
