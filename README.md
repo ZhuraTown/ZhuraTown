@@ -26,6 +26,7 @@ ___
 ![aiogram](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
 ![django](https://img.shields.io/badge/django%20-%2314354C.svg?&style=for-the-badge&logo=django&logoColor)
 ![drf](https://img.shields.io/badge/drf%20-%2314354C.svg?&style=for-the-badge&logo=d&logoColor)
+![fastapi](https://img.shields.io/badge/fastapi%20-%2314354C.svg?&style=for-the-badge&logo=fastapi&logoColor)
 ![postgres](https://img.shields.io/badge/postgres%20-%2314354C.svg?&style=for-the-badge&logo=postgresql&logoColor)
 ![mongodb](https://img.shields.io/badge/mongo%20-%2314354C.svg?&style=for-the-badge&logo=mongodb&logoColor)
 ![redis](https://img.shields.io/badge/redis%20-%2314354C.svg?&style=for-the-badge&logo=redis&logoColor)
