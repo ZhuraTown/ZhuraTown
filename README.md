@@ -12,7 +12,7 @@ ___
   
 ___
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 ## Testing:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor)
 ![pytest](https://img.shields.io/badge/pytest%20-%2314354C.svg?&style=for-the-badge&logo=pytest&logoColor)
