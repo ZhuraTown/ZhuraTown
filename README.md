@@ -8,7 +8,7 @@ ___
 ### :man_technologist: About Me :
 #### - I`m backend developer 💻
 #### - I love new knowledge 📖
-#### - I love swimming 🏊‍♂️
+#### - I love sport 🏊‍♂️ and travel 🛫
   
 ___
 
