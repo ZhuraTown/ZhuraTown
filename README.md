@@ -6,23 +6,32 @@
 ___
 
 ### :man_technologist: About Me :
-#### - I`m automation QA 🤖 
+#### - I`m backend developer 💻
 #### - I love new knowledge 📖
 #### - I love swimming 🏊‍♂️
   
 ___
 
 ### :hammer_and_wrench: Languages and Tools :
+## Testing:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor)
 ![pytest](https://img.shields.io/badge/pytest%20-%2314354C.svg?&style=for-the-badge&logo=pytest&logoColor)
 ![selenium](https://img.shields.io/badge/selenium%20-%2314354C.svg?&style=for-the-badge&logo=selenium&logoColor)
-![git](https://img.shields.io/badge/git%20-%2314354C.svg?&style=for-the-badge&logo=git&logoColor)
-![docker](https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor)
 ![postman](https://img.shields.io/badge/postman%20-%2314354C.svg?&style=for-the-badge&logo=postman&logoColor)
-![opencv](https://img.shields.io/badge/opencv%20-%2314354C.svg?&style=for-the-badge&logo=opencv&logoColor)
-![aiogram](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
 ![allure](https://img.shields.io/badge/allure%20-%2314354C.svg?&style=for-the-badge&logo=allure&logoColor)
 ![appium](https://img.shields.io/badge/appium%20-%2314354C.svg?&style=for-the-badge&logo=appium&logoColor)
+![requests](https://img.shields.io/badge/requests%20-%2314354C.svg?&style=for-the-badge&logo=allure&logoColor)
+## Backend:
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor)
+![aiogram](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
+![django](https://img.shields.io/badge/django%20-%2314354C.svg?&style=for-the-badge&logo=django&logoColor)
+![drf](https://img.shields.io/badge/drf%20-%2314354C.svg?&style=for-the-badge&logo=d&logoColor)
+![postgres](https://img.shields.io/badge/postgres%20-%2314354C.svg?&style=for-the-badge&logo=postgresql&logoColor)
+![mongodb](https://img.shields.io/badge/mongo%20-%2314354C.svg?&style=for-the-badge&logo=mongodb&logoColor)
+![redis](https://img.shields.io/badge/redis%20-%2314354C.svg?&style=for-the-badge&logo=redis&logoColor)
+![celery](https://img.shields.io/badge/celery%20-%2314354C.svg?&style=for-the-badge&logo=celery&logoColor)
+![docker](https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor)
+![git](https://img.shields.io/badge/git%20-%2314354C.svg?&style=for-the-badge&logo=git&logoColor)
 
 
 ### Connect with me: &nbsp;
