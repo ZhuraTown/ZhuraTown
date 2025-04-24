@@ -24,8 +24,8 @@ ___
 ## Backend:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor)
 ![aiogram](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
-![RabbitMQ](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
-![Taskiq](https://img.shields.io/badge/aiogram%20-%2314354C.svg?&style=for-the-badge&logo=aiogram&logoColor)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ%20-%2314354C.svg?&style=for-the-badge&logo=RabbitMQ&logoColor)
+![Taskiq](https://img.shields.io/badge/Taskiq%20-%2314354C.svg?&style=for-the-badge&logo=Taskiq&logoColor)
 ![django](https://img.shields.io/badge/django%20-%2314354C.svg?&style=for-the-badge&logo=django&logoColor)
 ![drf](https://img.shields.io/badge/drf%20-%2314354C.svg?&style=for-the-badge&logo=d&logoColor)
 ![fastapi](https://img.shields.io/badge/fastapi%20-%2314354C.svg?&style=for-the-badge&logo=fastapi&logoColor)
